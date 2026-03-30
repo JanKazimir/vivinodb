@@ -3,30 +3,19 @@
 
 The point is to create a report : the needed things are in the instructions
 
-uv add ipykernel sqlite3 jupysql streamlit
+
+Questions:
+how does the -save command work? the docs explantion is very short and it doesn't work in a jupyter notebook
 
 
 notes
 - watch out for SQL types of data, it's different than python
-- no pandas
 - needs visualisations
 - write requests in .sql files
 
 
 
-I'm starting an exercise on SQL. Analysing a db of wines. It's SQLlite.
-
-
-1/ visualisations: The instructions say we need to create visualisations. any way to do it without pandas? The instructions say to do without it, but maybe that's just for the SQL queries part.
-2/ the instruction says to write requests in dedicated .sql files. why? what's the point?
-
-3/ Broadly how should i approach this? 
-
-4/ What libraries are needed? so far i have : uv add ipykernel jupysql streamlit matplotlib
-Anything else that seems obvious?
-
-
-
+Idea: pull from the toplists, then select the ones from bestsellers, rank by wines who appear several times
 
 
 ### Must-have features
@@ -36,7 +25,6 @@ A complete market analysis report that answers these questions:
 - We want to highlight 10 wines to increase our sales. Which ones should we choose and why?
 - We have a marketing budget for this year. Which country should we prioritise and why?
 - We would like to give awards to the best wineries. Come up with 3 relevant ones. Which wineries should we choose and why? Be creative ;)
-- We have detected that a big cluster of customers like a specific combination of tastes. We have identified a few `primary` `keywords` that match this. 
 - We have detected that a big cluster of customers like a specific combination of tastes. We have identified a few `primary` `keywords` that match this. We would like you to **find all the wines that have those keywords**. To ensure the accuracy of our selection, ensure that **more than 10 users confirmed those keywords**. Also, identify the `group_name` related to those keywords.
 
 **⚠️ Those keywords are CASE SENSITIVE ⚠️**

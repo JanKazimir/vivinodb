@@ -22,10 +22,10 @@ Idea: pull from the toplists, then select the ones from bestsellers, rank by win
 
 A complete market analysis report that answers these questions:
 
-- We want to highlight 10 wines to increase our sales. Which ones should we choose and why?
-- We have a marketing budget for this year. Which country should we prioritise and why?
-- We would like to give awards to the best wineries. Come up with 3 relevant ones. Which wineries should we choose and why? Be creative ;)
-- We have detected that a big cluster of customers like a specific combination of tastes. We have identified a few `primary` `keywords` that match this. We would like you to **find all the wines that have those keywords**. To ensure the accuracy of our selection, ensure that **more than 10 users confirmed those keywords**. Also, identify the `group_name` related to those keywords.
+- ✅We want to highlight 10 wines to increase our sales. Which ones should we choose and why?
+- ✅ We have a marketing budget for this year. Which country should we prioritise and why?
+- ✅ We would like to give awards to the best wineries. Come up with 3 relevant ones. Which wineries should we choose and why? Be creative ;)
+- ✅ We have detected that a big cluster of customers like a specific combination of tastes. We have identified a few `primary` `keywords` that match this. We would like you to **find all the wines that have those keywords**. To ensure the accuracy of our selection, ensure that **more than 10 users confirmed those keywords**. Also, identify the `group_name` related to those keywords.
 
 **⚠️ Those keywords are CASE SENSITIVE ⚠️**
 
@@ -35,8 +35,8 @@ A complete market analysis report that answers these questions:
 	- cream
 	- citrus
 
-- We would like to select wines that are easy to find all over the world. **Find the top 3 most common `grape` all over the world** and **for each grape, give us the the 5 best rated wines**.
-- We would to give create a country leaderboard, give us a visual that shows the **average wine rating for each `country`**. Do the same for the `vintages`.
+- ✅ We would like to select wines that are easy to find all over the world. **Find the top 3 most common `grape` all over the world** and **for each grape, give us the the 5 best rated wines**.
+- ✅ We would to give create a country leaderboard, give us a visual that shows the **average wine rating for each `country`**. Do the same for the `vintages`.
 - Give us any other useful insights you found in our data. **Be creative!**
 
 

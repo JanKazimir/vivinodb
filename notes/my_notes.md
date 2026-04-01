@@ -42,10 +42,10 @@ A complete market analysis report that answers these questions:
 
 ### Nice-to-have features
 
-- Optimise your solution to have the result as fast as possible.
-- Implement visualizations best practices (e.g. data storytelling, nice design, relevancy to the questions asked, etc.). 
-- One of our VIP client likes `Cabernet Sauvignon` and would like our top 5 recommendations. Which wines would you recommend to him?
-- Can you recommend anything to improve the data, the database schema or the typing?
+- ✅ Optimise your solution to have the result as fast as possible.
+- ✅ Implement visualizations best practices (e.g. data storytelling, nice design, relevancy to the questions asked, etc.). 
+- ✅ One of our VIP client likes `Cabernet Sauvignon` and would like our top 5 recommendations. Which wines would you recommend to him?
+- ✅ Can you recommend anything to improve the data, the database schema or the typing?
 
 
 ### Constraints

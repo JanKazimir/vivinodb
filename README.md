@@ -1,5 +1,6 @@
 # Vivino Market Analysis
-This project is an analysis of a vivino dataset as part of a becode bootcamp exercise targeted at sql pratice.   
+This project is an analysis of a vivino dataset as part of a becode bootcamp exercise targeted at sql pratice.  
+As an exercise, this project is pure SQL: python is used only for conveniently viewing the results, and composing charts.    
 
 You can have a look at the result here:
 https://vivinodb-mdjjynuupbu4qgxkj3quxz.streamlit.app/

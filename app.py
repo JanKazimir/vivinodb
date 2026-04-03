@@ -13,6 +13,9 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
+# to run: cd /Users/jkzmr/Developer/becode/vivinodb.venv/bin/streamlit run app.py
+# to run: streamlit run app.py
+
 # ── Paths ──────────────────────────────────────────────────────────────────────
 DB_PATH = Path(__file__).parent / "data" / "vivino.db"
 QUERIES_DIR = Path(__file__).parent / "queries"
